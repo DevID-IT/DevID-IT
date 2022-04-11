@@ -2,12 +2,14 @@
 
 ## 👀 Look who I am...
 
-I'm a 23 years old man who love adventures and challanges. I am a graduated student from Cracow University of Economies specializing Controlling. However my career path is directed towards programming. From 2020 I am learning programming, currently I am particularly focused on the Front End. I am improving my skliis, update knowledge which I have gained in online courses and books. 
-
-I am looking for a full-time job or internship to develop my skills and knowledge in practice. I am open on new opportunieties and challanges. 
+I am a development-oriented person. I started my adventure with IT by learning Fornt-Endu and JavaScript technology. Since 2022 I focused on testing - manual and automated. I specialize in Selenium tests with the use of Python language
 
 ## 🥅 Languages and Tools
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript 
+- Python
+
+- Selenium
+
+- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript 
   
  - <img align="left" alt="AngularJS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" /> AngularJS
  
@@ -17,9 +19,9 @@ I am looking for a full-time job or internship to develop my skills and knowledg
  
  - GSAP
   
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML5 
+- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML5 
  
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS3 
+- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS3 
  
  - <img align="left" alt="SCSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> SCSS/SASS
  
@@ -38,14 +40,6 @@ I am looking for a full-time job or internship to develop my skills and knowledg
 - <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" /> TypeScript
  
 - <img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/webpack/webpack.png" /> Webpack
-
-
- ## 🌱 I am learning
-- <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" /> TypeScript
-  
-- <img align="left" alt="AngularJS" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" /> AngularJS
- 
-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> ReactJS
 
 
 ## ⚡ How I work
